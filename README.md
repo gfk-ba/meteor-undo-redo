@@ -1,4 +1,4 @@
-gfk:undo-redo
+gfk:undo-redo [![Build Status](https://travis-ci.org/gfk-ba/meteor-undo-redo.svg)](https://travis-ci.org/gfk-ba/meteor-undo-redo)
 =============
 
 An add-on Meteor package for undoing, redoing actions on the client.
